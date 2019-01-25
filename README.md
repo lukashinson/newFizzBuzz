@@ -1,7 +1,6 @@
 FizzBuzz
 
 for i in range(1, 101):
-
     line = ''
 
     if i % 3 == 0:
