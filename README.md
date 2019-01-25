@@ -1,4 +1,5 @@
 # newFizzBuzz
+
 for i in range(1, 101):
 
     line = ''
@@ -14,5 +15,5 @@ for i in range(1, 101):
     if not line:
 
         line += str(i)
-        
+
     print(line)
